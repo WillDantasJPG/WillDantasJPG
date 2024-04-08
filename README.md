@@ -70,4 +70,4 @@
 
 ## 🏆 Achievements: 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=dantaswilljpg&theme=tokyonight)](https://github.com/dantaswilljpg/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=DantasWillJPG&theme=tokyonight)](https://github.com/DantasWillJPG/github-profile-trophy)
