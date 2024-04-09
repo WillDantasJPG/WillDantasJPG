@@ -21,17 +21,17 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/DantasWillJPG"> 
-    <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=DantasWillJPG&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/WillDantasJPG"> 
+    <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=WillDantasJPG&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   </a>
-  <a href="https://github.com/DantasWillJPG">
-    <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DantasWillJPG&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/WillDantasJPG">
+    <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillDantasJPG&layout=compact&langs_count=7&theme=dark"/>
   </a>
 </div>
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=DantasWillJPG&color=blue&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=WillDantasJPG&color=blue&style=flat-square&label=Profile+Views)
 
 ## 👨‍💻 Technologies:
 
@@ -70,4 +70,4 @@
 
 ## 🏆 Achievements: 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=DantasWillJPG&theme=tokyonight)](https://github.com/DantasWillJPG/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=WillDantasJPG&theme=tokyonight)](https://github.com/DantasWillJPG/github-profile-trophy)
