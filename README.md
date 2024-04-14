@@ -1,39 +1,41 @@
-<img src="https://media.tenor.com/I5iY9Hj8YGQAAAAi/kroppa-digital.gif" height="325" width="340" style="border-radius: 550px;" align="right" alt="gif">
+<!-- Title -->
+<h1 align="center">Hi there! 👋 I'm Will Dantas</h1>
 
----
+<!-- GIF -->
+<img src="https://media.tenor.com/images/3de5a9fcadfd107d2ad8750f6fbf1b8e/tenor.gif" height="auto" width="50%" style="border-radius: 50px; display: block; margin: 0 auto;" alt="gif">
 
-## Nice to meet you, I'm Will Dantas! 👨‍ 👋🏼
-<div>
- • 💻  Developer.
-  <br><br>
+<!-- Introduction -->
+<p align="center">Welcome to my GitHub profile! I'm a developer passionate about building amazing software solutions.</p>
 
-• 👨‍🎓  I'm a Systems Development technician graduated from Etec Guaianazes and a student of Systems Analysis and Development at São Paulo Tech School.
-<br><br>
+<!-- Profile Views Badge -->
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=dantaswilljpg&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views">
+</p>
 
- • 📧  My contact email: will.adolpho@sptech.school
-</div>
+<!-- Bio -->
+## 📝 Bio
 
-<br>
-<br>
+- 💻 Developer.
+- 👨‍🎓 Systems Development technician graduated from Etec Guaianazes.
+- 📚 Student of Systems Analysis and Development at São Paulo Tech School.
+- 📧 Contact email: will.adolpho@sptech.school
 
-## 🚀 GitHub Stats:
-
-<br>
+<!-- GitHub Stats -->
+## 🚀 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/WillDantasJPG"> 
-    <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=WillDantasJPG&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/dantaswilljpg"> 
+    <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=dantaswilljpg&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   </a>
-  <a href="https://github.com//WillDantasJPG">
-    <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillDantasJPG&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/dantaswilljpg">
+    <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dantaswilljpg&layout=compact&langs_count=7&theme=dark"/>
   </a>
 </div>
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=dantaswilljpg&color=blue&style=flat-square&label=Profile+Views)
-
-## 👨‍💻 Technologies:
+<!-- Technologies -->
+## 👨‍💻 Technologies
 
 <div align="center">
     <code><img height="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML" /></code>
@@ -53,9 +55,9 @@
     <code><img height="50" src="https://img.icons8.com/color/48/000000/azure-1.png" alt="Azure" title="Azure" /></code>
 </div>
 
+<!-- Contacts -->
+## 🌐 Contacts
 
-
-## 🌐 Contacts:
 <div align="center">
   <a href="https://www.linkedin.com/in/will-gustavo-dantas-adolpho-54532922b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
@@ -68,6 +70,7 @@
   </a>
 </div>
 
-## 🏆 Achievements: 
+<!-- Achievements -->
+## 🏆 Achievements 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=WillDantasJPG&theme=tokyonight)](https://github.com/dantaswilljpg/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=dantaswilljpg&theme=tokyonight)](https://github.com/dantaswilljpg/github-profile-trophy)
