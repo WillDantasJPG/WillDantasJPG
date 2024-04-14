@@ -1,8 +1,8 @@
-<img src="https://media.tenor.com/I5iY9Hj8YGQAAAAi/kroppa-digital.gif" height="205" width="220" style="border-radius: 50px;" align="right" alt="gif">
-
----
 <!-- Title -->
 <h1 align="center">Hi there! 👋 I'm Will Dantas</h1>
+
+<!-- Animation -->
+<img src="https://media1.tenor.com/images/49dfe5a6da4bf7680f12206b43f2d39a/tenor.gif" height="205" width="220" style="border-radius: 50px;" align="right" alt="gif">
 
 <!-- Introduction -->
 <p align="center">Welcome to my GitHub profile! I'm a developer passionate about building amazing software solutions.</p>
