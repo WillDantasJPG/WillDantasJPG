@@ -1,8 +1,8 @@
 <!-- Title -->
 <h1 align="center">Hi there! 👋 I'm Will Dantas</h1>
 
-<!-- Animation -->
-<img src="https://media1.tenor.com/images/0b590d190b5e64c5c109fca75d2be98b/tenor.gif" height="205" width="220" style="border-radius: 50px;" align="right" alt="gif">
+<!-- GIF -->
+<img src="https://media.giphy.com/media/11ZSwQNWba4YF2/giphy.gif" height="205" width="220" style="border-radius: 50px;" align="right" alt="gif">
 
 <!-- Introduction -->
 <p align="center">Welcome to my GitHub profile! I'm a developer passionate about building amazing software solutions.</p>
