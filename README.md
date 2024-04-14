@@ -21,11 +21,11 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/dantaswilljpg"> 
-    <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=dantaswilljpg&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/WillDantasJPG"> 
+    <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=WillDantasJPG&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   </a>
-  <a href="https://github.com/dantaswilljpg">
-    <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dantaswilljpg&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com//WillDantasJPG">
+    <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillDantasJPG&layout=compact&langs_count=7&theme=dark"/>
   </a>
 </div>
 
@@ -70,4 +70,4 @@
 
 ## 🏆 Achievements: 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=dantaswilljpg&theme=tokyonight)](https://github.com/dantaswilljpg/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=WillDantasJPG&theme=tokyonight)](https://github.com/dantaswilljpg/github-profile-trophy)
