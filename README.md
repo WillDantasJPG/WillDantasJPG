@@ -1,4 +1,4 @@
-<img src="https://media.tenor.com/I5iY9Hj8YGQAAAAi/kroppa-digital.gif" height="325" width="340" style="border-radius: 550px;" align="right" alt="gif">
+<img src="https://media.tenor.com/I5iY9Hj8YGQAAAAi/kroppa-digital.gif" height="205" width="220" style="border-radius: 50px;" align="right" alt="gif">
 
 ---
 <!-- Title -->
