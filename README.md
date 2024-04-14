@@ -2,7 +2,7 @@
 <h1 align="center">Hi there! 👋 I'm Will Dantas</h1>
 
 <!-- GIF -->
-<img src="https://media.giphy.com/media/11ZSwQNWba4YF2/giphy.gif" height="205" width="220" style="border-radius: 50px;" align="right" alt="gif">
+<img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" height="auto" width="50%" style="border-radius: 50px; display: block; margin: 0 auto;" alt="gif">
 
 <!-- Introduction -->
 <p align="center">Welcome to my GitHub profile! I'm a developer passionate about building amazing software solutions.</p>
