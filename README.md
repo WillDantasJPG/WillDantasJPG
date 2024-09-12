@@ -21,7 +21,7 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/juliahown">
+  <a href="https://github.com/WillDantasJPG">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WillDantasJPG&theme=radical" alt="Julia's GitHub Contribution"/>
   </a>
 </p>
