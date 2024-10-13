@@ -64,7 +64,7 @@
 
 ## 🌐 Contacts:
 <div align="center">
-  <a href="https://www.linkedin.com/in/will-gustavo-dantas-adolpho-54532922b" target="_blank">
+  <a href="https://www.linkedin.com/in/will-gustavo-dantas-54532922b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
   </a>
   <a href="mailto:willgustavodantasadolpho@gmail.com" target="_blank">
