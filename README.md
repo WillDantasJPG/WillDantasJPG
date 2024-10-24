@@ -58,7 +58,9 @@
     <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" title="Java" /></code>
     <code><img height="50" src="https://img.icons8.com/ios-filled/50/000000/docker.png" alt="Docker" title="Docker" /></code>
     <code><img height="50" src="https://img.icons8.com/color/48/000000/azure-1.png" alt="Azure" title="Azure" /></code>
+    <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" title="AWS" /></code>
 </div>
+
 
 
 
