@@ -56,7 +56,7 @@
     <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" title="Java" /></code>
     <code><img height="50" src="https://img.icons8.com/ios-filled/50/000000/docker.png" alt="Docker" title="Docker" /></code>
     <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" title="AWS" /></code>
-    <code><img height="50" src="https://user-images.githubusercontent.com/25181517/120136550-80115c80-c1d4-11eb-9070-48a770fe04f3.png" alt="LWC" title="LWC" /></code>
+    <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" alt="LWC" title="LWC" /></code>
 </div>
 
 
